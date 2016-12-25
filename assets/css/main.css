@@ -1,5 +1,4 @@
 @import url(font-awesome.min.css);
-@import url("http://fonts.googleapis.com/earlyaccess/notosanstc.css");
 
 /*
 	Spectral by HTML5 UP
@@ -15,7 +14,7 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-		font-family: 'Noto Sans TC', sans-serif;
+		font-family: Microsoft JhengHei;
 		vertical-align: baseline;
 	}
 
